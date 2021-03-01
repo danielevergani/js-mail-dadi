@@ -19,7 +19,7 @@ for (i=0; i<100; i++) {
         console.log("pareggio");
     }
 
-    condizione = prompt("vuoi smettere di giocare?");
+    condizione = prompt("vuoi smettere di giocare? scivi 'si' se vuoi smettere");
 
     if (condizione == "si"){
         break;
